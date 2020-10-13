@@ -4,6 +4,10 @@ Construção de projetos Python do curso PytTolls da PythonPro
 Estudando como contribuir com projetos  de códigos abertos
 
 Link do Curso [Python Pro](https://www.python.pro.br/)
+[![Build Status](https://travis-ci.org/Brutos212/bru_pytools_pro.svg?branch=main)],
+(https://travis-ci.org/Brutos212/bru_pytools_pro)
+
+
 
 Suportado versão do Python3
 
