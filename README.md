@@ -7,6 +7,12 @@ Link do Curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://travis-ci.org/Brutos212/bru_pytools_pro.svg?branch=main)],
 (https://travis-ci.org/Brutos212/bru_pytools_pro)
 
+[![Updates](https://pyup.io/repos/github/Brutos212/bru_pytools_pro/shield.svg)],
+(https://pyup.io/repos/github/Brutos212/bru_pytools_pro/)
+
+[![Python 3](https://pyup.io/repos/github/Brutos212/bru_pytools_pro/python-3-shield.svg)]
+(https://pyup.io/repos/github/Brutos212/bru_pytools_pro/)
+
 
 
 Suportado versão do Python3
