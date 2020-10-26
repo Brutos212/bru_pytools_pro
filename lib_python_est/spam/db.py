@@ -1,3 +1,6 @@
+from time import sleep
+
+
 class Sessao:
     usuarios = []
     contador = 0
@@ -17,6 +20,10 @@ class Sessao:
         pass
 
 class Conexao:
+
+    def __init__(self):
+        sleep(10)
+
     def gerar_sessao(self):
         return Sessao()
 
