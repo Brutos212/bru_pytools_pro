@@ -13,6 +13,8 @@ Link do Curso [Python Pro](https://www.python.pro.br/)
 [![Python 3](https://pyup.io/repos/github/Brutos212/bru_pytools_pro/python-3-shield.svg)]
 (https://pyup.io/repos/github/Brutos212/bru_pytools_pro/)
 
+[![codecov](https://codecov.io/gh/Brutos212/bru_pytools_pro/branch/main/graph/badge.svg?token=GG6521DNR0)](undefined)
+
 
 
 Suportado versão do Python3

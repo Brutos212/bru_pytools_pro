@@ -1,0 +1,10 @@
+language: python
+python:
+  - 3.8
+install:
+  - pip install -q -r requirements-dev.txt codecov
+script:
+  - flake8
+  - pytest lib_python_est --cov=lib_python_est
+after_success:
+  - codecov
