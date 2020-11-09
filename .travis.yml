@@ -1,8 +1,13 @@
 language: python
 python:
   - 3.8
+env:
+  global:
+    - PIPENV_VENV_IN_PROJECT=1
+    - PIPENV_IGNORE_VIRTUALENVS=1
 install:
-  - pip install -q -r requirements-dev.txt codecov
+  - pip install -q pipenv codecov
+  - pipenv sync --dev
 script:
   - flake8
   - pytest lib_python_est --cov=lib_python_est
