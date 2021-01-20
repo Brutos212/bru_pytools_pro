@@ -11,7 +11,7 @@ pluggy==0.13.1
 
 #Converage
 coverage==5.3
-pytest-cov==2.10.1
+pytest-cov==2.11.1
 
 
 -r requirements.txt
